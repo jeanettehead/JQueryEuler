@@ -1,0 +1,4 @@
+install virtualenv
+install python 2 7
+install postgres
+create virtualenv environment
